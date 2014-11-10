@@ -1,5 +1,6 @@
 package Ctec.soundandvideo.controller;
 
+import Ctec.soundandvideo.R;
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
@@ -22,8 +23,8 @@ public class VideoActivity extends Activity
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_video);
 		
-		myPlayer = (VideoView) findViewById(R.id.videoView);
-		returnButton = (Button) findViewById(R.id.homeButton);
+		myPlayer = (VideoView) findViewById(R.id.VideoView);
+		returnButton = (Button) findViewById(R.id.returnButton);
 		
 		videoLocation = Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.party);
 		myVideoController = new MediaController(this);

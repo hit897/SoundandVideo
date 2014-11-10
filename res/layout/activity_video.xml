@@ -17,7 +17,7 @@
     </MediaController>
 
     <VideoView
-        android:id="@+id/myPlayer"
+        android:id="@+id/VideoView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
