@@ -1098,6 +1098,7 @@ containing a value of this type.
         public static final int expanded_menu=0x7f06002c;
         public static final int home=0x7f060014;
         public static final int homeAsUp=0x7f060005;
+        public static final int homeButton=0x7f060041;
         public static final int icon=0x7f06002a;
         public static final int ifRoom=0x7f06000a;
         public static final int image=0x7f060027;
@@ -1112,7 +1113,6 @@ containing a value of this type.
         public static final int progress_circular=0x7f060018;
         public static final int progress_horizontal=0x7f060019;
         public static final int radio=0x7f06002f;
-        public static final int returnButton=0x7f060041;
         public static final int search_badge=0x7f060032;
         public static final int search_bar=0x7f060031;
         public static final int search_button=0x7f060033;
@@ -1241,6 +1241,7 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f0b000b;
         public static final int app_name=0x7f0b000d;
         public static final int hello_world=0x7f0b000e;
+        public static final int returnButtonString=0x7f0b000f;
     }
     public static final class style {
         /** 

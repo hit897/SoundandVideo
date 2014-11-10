@@ -24,11 +24,11 @@ public class VideoActivity extends Activity
 		setContentView(R.layout.activity_video);
 		
 		myPlayer = (VideoView) findViewById(R.id.VideoView);
-		returnButton = (Button) findViewById(R.id.returnButton);
+		returnButton = (Button) findViewById(R.id.homeButton);
 		
 		videoLocation = Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.party);
 		myVideoController = new MediaController(this);
-		//Prepare for the Video
+		//Prepare the video
 		setupMedia();
 		setupListeners();
 	}

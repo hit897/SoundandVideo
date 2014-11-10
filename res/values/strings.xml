@@ -3,5 +3,6 @@
 
     <string name="app_name">SoundandVideo</string>
     <string name="hello_world">Hello world!</string>
+    <string name="returnButtonString">Go Back Home</string>
 
 </resources>
