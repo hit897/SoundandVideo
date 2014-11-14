@@ -1071,7 +1071,7 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020057;
     }
     public static final class id {
-        public static final int VideoView=0x7f060043;
+        public static final int VideoView=0x7f060041;
         public static final int action_bar=0x7f06001c;
         public static final int action_bar_activity_content=0x7f060015;
         public static final int action_bar_container=0x7f06001b;
@@ -1098,14 +1098,14 @@ containing a value of this type.
         public static final int expanded_menu=0x7f06002c;
         public static final int home=0x7f060014;
         public static final int homeAsUp=0x7f060005;
-        public static final int homeButton=0x7f060041;
+        public static final int homeButton=0x7f060042;
         public static final int icon=0x7f06002a;
         public static final int ifRoom=0x7f06000a;
         public static final int image=0x7f060027;
         public static final int listMode=0x7f060001;
         public static final int list_item=0x7f060029;
         public static final int middle=0x7f060012;
-        public static final int myVideoController=0x7f060042;
+        public static final int myVideoController=0x7f060043;
         public static final int never=0x7f060009;
         public static final int none=0x7f060010;
         public static final int normal=0x7f060000;
